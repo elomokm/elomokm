@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning advanced machine learning algorithms, data analysis, and Vue.js to improve my project management and development skills.
 - 💞️ I’m looking to collaborate on innovative tech projects, especially those involving AI, Big Data, and IoT, and I'm open to discussions with the African tech community and anyone aiming to make an impact in these fields.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elom-okoumassoun/) | Email: elomokms@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:
+
+
 
 
 <!---
