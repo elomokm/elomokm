@@ -1,13 +1,33 @@
-- 👋 Hi, I’m @elomokm, a 20-year-old AI & Big Data MSc student from Benin, currently studying in France and working as a software engineer apprentice at QUOBLY.
-- 👀 I’m interested in becoming a top Machine Learning Engineer and an expert in data science, focusing on projects that leverage AI to solve real-world problems. I’m also passionate about tech startups and aspire to build a tech ecosystem in West Africa, particularly in Benin.
-- 🌱 I’m currently learning advanced machine learning algorithms, data analysis, and Vue.js to improve my project management and development skills.
-- 💞️ I’m looking to collaborate on innovative tech projects, especially those involving AI, Big Data, and IoT, and I'm open to discussions with the African tech community and anyone aiming to make an impact in these fields.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/elom-okoumassoun/) | Email: elomokms@gmail.com
+<div align="center">
 
+# 👋 Elom Okoumassoun
 
+**ML & Computer Vision Engineer** · EFREI Paris
 
+AI Research & Development · Computer Vision · Edge Computing
 
-<!---
-elomokm/elomokm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</div>
+
+---
+
+## 🚀 Projets
+
+| Projet | Stack | Description |
+|---|---|---|
+| [**pedia**](https://github.com/elomokm/pedia) | Python, NLP, HPO ontology | Jumeau numérique pour le suivi des prématurés. Transforme les observations parentales en rapports cliniques exploitables. |
+| [**UNMAPPED**](https://github.com/elomokm/hacknation-5) | Python, FastAPI, Streamlit | Infrastructure qui transforme les compétences informelles en opportunités économiques. Déployé sur Streamlit Cloud + Render. 4 pays supportés. |
+| [**MediAgent**](https://github.com/elomokm/mediagent-hack) | Python, OpenAI, Streamlit | Agent IA téléphonique de tri médical : collecte des symptômes, évaluation d'urgence, orientation et réservation. |
+| [**ROBOCAR**](https://github.com/elomokm/ROBOCAR) | Python, Jetson Nano, Computer Vision | Véhicule autonome sur base RC, inférence embarquée NVIDIA Jetson Nano. |
+| [**CryptoViz**](https://github.com/elomokm/T-901-DAT-cryptoviz) | Python, TypeScript, Microservices | Plateforme Big Data temps réel de monitoring crypto-monnaies. Architecture producer/consumer. |
+
+## 🛠️ Stack
+
+**ML / CV** · Python · PyTorch · OpenCV · FiftyOne · MLflow · ONNX  
+**Backend** · FastAPI · Rust/Axum · Node.js  
+**Infra** · Docker · Cloud Run · Streamlit Cloud  
+**Edge** · Raspberry Pi · NVIDIA Jetson Nano  
+**Automatisation** · n8n · pipelines HDF5  
+
+## 📫
+
+[GitHub](https://github.com/elomokm) · [Email](mailto:elomokms@gmail.com)
